@@ -1,4 +1,4 @@
-
+THE APPLICATION IS LIVE HERE :https://fitnessappsai.netlify.app/
 # FITNESS
 
 This application contains FITNESS information. It has over more than 1000+ fitness exercise varieties.
